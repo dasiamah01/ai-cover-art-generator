@@ -1,0 +1,31 @@
+# SauceLord Full-Stack Dashboard 🚀
+
+A robust, full-stack project management and music archive application built to streamline creative workflows. This app allows users to track development tasks and manage a digital discography in real-time.
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js (Hooks, Fetch API)
+* **Backend:** Node.js, Express.js
+* **Database:** PostgreSQL
+* **Version Control:** Git & GitHub
+* **Environment:** Dotenv for secure credential management
+
+## ✨ Features
+
+* **Project Tracker:** Full CRUD functionality (Create, Read, Update, Delete) for tasks.
+* **Music Archive:** Specialized section to manage music releases, genres, and streaming links.
+* **Real-time Filtering:** Search through music archives by genre instantly.
+* **Interactive UI:** Status toggles with visual feedback (Checkmarks and strike-throughs).
+* **Security:** Middleware implementation for CORS and environment variables to protect DB credentials.
+
+## 🚀 Getting Started
+
+### Prerequisites
+* Node.js installed
+* PostgreSQL database running
+
+### Setup
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/dasiamah01/ai-cover-art-generator.git](https://github.com/dasiamah01/ai-cover-art-generator.git)
